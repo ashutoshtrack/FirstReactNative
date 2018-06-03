@@ -1,0 +1,3 @@
+rootProject.name = 'Thanos'
+
+include ':app'
